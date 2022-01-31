@@ -1,0 +1,115 @@
+body
+{
+	background-color: rgb(60, 120, 255); 
+	font-family: Verdana;
+	font-size: 20px;
+	color: red;
+	overflow: scroll;
+	text-align: center;
+	clear: both;
+}
+
+#head
+{
+	margin: auto;
+	width: 65%;
+	height: 20%;
+	background-color: rgb(0, 200, 120);
+	padding: 70px 0;
+    border: 3px solid green;
+	margin-bottom: 40px;
+	clear: both;
+	font-size: 28px;
+	color: red;
+}
+
+.img
+{
+	background-color: darkred;
+	width: 352px;
+	height: 500px;
+	padding: 5px;
+	border: 3px solid black;
+}
+
+.text
+{
+	text-shadow: 1px 1px;
+}
+
+.ltext
+{
+	text-shadow: 1px 1px;
+	position: absolute;
+	top: 840px;
+	left: 500px;
+}
+
+.rtext
+{
+	text-shadow: 1px 1px;
+	position: absolute;
+	top: 840px;
+	right: 500px;
+}
+
+h2
+{
+	font-size: 20px;
+	text-shadow: 1px 1px;
+}
+
+.dleft
+{
+	position: absolute;
+	top: 880px;
+	left: 375px;
+}
+
+.dright
+{
+	position: absolute;
+	top: 880px;
+	right: 375px;
+}
+
+.left
+{
+	position: absolute;
+	top: 276px;
+	left: 200px;
+}
+.lefttext
+{
+	position: absolute;
+	top: 213px;
+	left: 330px;
+}
+
+.right
+{
+	position: absolute;
+	top: 276px;
+	right: 200px;
+}
+.righttext
+{
+	position: absolute;
+	top: 213px;
+	right: 280px;
+}
+
+a:link
+{
+	color: rgb(0, 0, 255);
+}
+
+a:visited
+{
+	color:rgb(255, 0, 0);
+}
+
+a:hover
+{
+	color: rgb(255, 0, 255);
+}
